@@ -52,4 +52,4 @@ Code:
 	
 Note:
 
-	I am using Free Hosting Service So Please place you API before testing skill locally. Thanks 
+	I am using Free Hosting Service So Please place you URL before testing skill locally. Thanks Happy Coding. :)
