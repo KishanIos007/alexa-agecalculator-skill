@@ -49,3 +49,7 @@ Example Phrases:
 
 Code:
 	Google Drive.
+	
+Note:
+
+	I am using Free Hosting Service So Please place you API before testing skill locally. Thanks 
